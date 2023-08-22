@@ -54,6 +54,11 @@
     background-color: green;
 }
 
+.colorGrid {
+    color: white;
+    background: linear-gradient(90deg, Red, Orange, Yellow, Green, Blue, Indigo,violet);
+}
+
 #sketchboard {
     border: 1px solid black;
     height: 80vh;
